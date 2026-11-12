@@ -1,1 +1,4 @@
 Hari 4: Belajar memahami commit.
+
+Latihan Branch:
+Saya sedang belajar menggunakan branch di GitHub.
