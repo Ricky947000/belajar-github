@@ -1,1 +1,7 @@
+CATATAN BELAJAR GITHUB
 
+Hari 1: Mengenal Git dan GitHub.
+Hari 2: Membuat repository pertama.
+Hari 3: Belajar membuat dan mengedit file.
+
+Saya sedang belajar GitHub dari nol.
