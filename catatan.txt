@@ -2,3 +2,11 @@ Hari 4: Belajar memahami commit.
 
 Latihan Branch:
 Saya sedang belajar menggunakan branch di GitHub.
+
+Yang bener
+
+Saya sedang belajar GitHub.
+Saya sudah berhasil melakukan Clone.
+Bambang
+
+Pull & Push
